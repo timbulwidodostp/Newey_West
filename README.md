@@ -1,5 +1,5 @@
 # Newey_West
-Newey-West HAC Covariance Matrix Estimation Use NeweyWest With (In) R Software
+Newey-West HAC Covariance Matrix Estimation Use NeweyWest (sandwich) With (In) R Software
 
 Olah Data Semarang
 
